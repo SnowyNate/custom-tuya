@@ -2,7 +2,8 @@
   "domain": "tuya",
   "name": "Tuya",
   "version": "1.0.0",
-  "codeowners": ["@Tuya", "@zlinoliver"],
+  "issue_tracker": "https://github.com/SnowyNate/custom-tuya/issues",
+  "codeowners": ["@Tuya", "@zlinoliver", "@SnowyNate"],
   "config_flow": true,
   "dependencies": ["ffmpeg"],
   "dhcp": [
